@@ -1,6 +1,6 @@
 # Benjamín Andrés Moya Naranjo
 
-Estudiante de Ingeniería Estadística con formación en análisis de datos y modelamiento estadístico, con experiencia en riesgo de crédito bajo normativa IFRS 9.
+Estudiante de Ingeniería Estadística con formación en análisis de datos y modelamiento estadístico
 Interesado en soluciones basadas en datos, especialmente en riesgo de crédito, data science, analítica y astronomia. Destaco por mi capacidad analítica y pensamiento crítico.
 
 
