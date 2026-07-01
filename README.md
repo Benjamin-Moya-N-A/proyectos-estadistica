@@ -1,3 +1,4 @@
+En este repo estarán los códigos/ppts o informes respectivos asociados a los proyectos que he realizado durante este tiempo, donde presento un mini resumen con la pregunta que se realiza y los resultados obtenidos ;)
 # Proyectos
 
 🔭 Clasificación de líneas espectrales estelares mediante ML para el curso de deep learning
@@ -12,5 +13,5 @@ Luego se generaron ventanas sobre la longitud de onda y el flux para alimentar d
 #### Herramientas: Python, TensorFlow/Keras, Polars/Pandas
 
 📁 /proyecto-readmisiones hospitalarias
-
+¿ Que variables nos pueden ayudar a predecir la readmision de las personas con insuficiencia cardiaca?
 
